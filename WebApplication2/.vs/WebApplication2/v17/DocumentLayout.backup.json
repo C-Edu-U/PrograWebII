@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication2\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|solutionrelative:controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication2\\business\\contracts\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|solutionrelative:business\\contracts\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication2\\services\\contracts\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|solutionrelative:services\\contracts\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication2\\services\\clases\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|solutionrelative:services\\clases\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication2\\business\\clases\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|solutionrelative:business\\clases\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication2\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63A4BB4-5A7F-4D54-810E-6BD84377D9A4}|WebApplication2.csproj|solutionrelative:models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:41:42.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T01:41:11.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolController.cs",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Controllers\\RolController.cs",
+              "RelativeToolTip": "Controllers\\RolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:40:57.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRolService.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Services\\Contracts\\IRolService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IRolService.cs",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Services\\Contracts\\IRolService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IRolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:40:35.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Services\\Clases\\RolService.cs",
+              "RelativeDocumentMoniker": "Services\\Clases\\RolService.cs",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Services\\Clases\\RolService.cs",
+              "RelativeToolTip": "Services\\Clases\\RolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:40:06.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRolRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Business\\contracts\\IRolRepository.cs",
+              "RelativeDocumentMoniker": "Business\\contracts\\IRolRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Business\\contracts\\IRolRepository.cs",
+              "RelativeToolTip": "Business\\contracts\\IRolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:40:03.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Business\\Clases\\RolRepository.cs",
+              "RelativeDocumentMoniker": "Business\\Clases\\RolRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\Business\\Clases\\RolRepository.cs",
+              "RelativeToolTip": "Business\\Clases\\RolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:34:47.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\models\\Rol.cs",
+              "RelativeDocumentMoniker": "models\\Rol.cs",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication2\\models\\Rol.cs",
+              "RelativeToolTip": "models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:33:36.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6583A498-2DAE-4E95-ABE7-E80D46347D4E}|WebApplication1.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication1\\business\\clases\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6583A498-2DAE-4E95-ABE7-E80D46347D4E}|WebApplication1.csproj|solutionrelative:business\\clases\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6583A498-2DAE-4E95-ABE7-E80D46347D4E}|WebApplication1.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6583A498-2DAE-4E95-ABE7-E80D46347D4E}|WebApplication1.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6583A498-2DAE-4E95-ABE7-E80D46347D4E}|WebApplication1.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6583A498-2DAE-4E95-ABE7-E80D46347D4E}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6583A498-2DAE-4E95-ABE7-E80D46347D4E}|WebApplication1.csproj|d:\\prograwebii\\actividad 1 git\\programaci\u00F2n web ii repositorio\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6583A498-2DAE-4E95-ABE7-E80D46347D4E}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:31:46.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication1\\Business\\Clases\\RolRepository.cs",
+              "RelativeDocumentMoniker": "Business\\Clases\\RolRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication1\\Business\\Clases\\RolRepository.cs",
+              "RelativeToolTip": "Business\\Clases\\RolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:30:26.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T01:30:01.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PrograWebII\\Actividad 1 Git\\Programaci\u00F2n Web II Repositorio\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:29:39.381Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"

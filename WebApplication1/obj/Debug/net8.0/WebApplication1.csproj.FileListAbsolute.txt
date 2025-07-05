@@ -1,0 +1,8 @@
+D:\PrograWebII\Actividad 1 Git\Programaciòn Web II Repositorio\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\PrograWebII\Actividad 1 Git\Programaciòn Web II Repositorio\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrograWebII\Actividad 1 Git\Programaciòn Web II Repositorio\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\PrograWebII\Actividad 1 Git\Programaciòn Web II Repositorio\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\PrograWebII\Actividad 1 Git\Programaciòn Web II Repositorio\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\PrograWebII\Actividad 1 Git\Programaciòn Web II Repositorio\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\PrograWebII\Actividad 1 Git\Programaciòn Web II Repositorio\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\PrograWebII\Actividad 1 Git\Programaciòn Web II Repositorio\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
